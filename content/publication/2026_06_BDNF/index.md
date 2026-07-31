@@ -43,7 +43,7 @@ preview_only: false
 projects: []
 publishDate: ''
 publication_types:
-- '3'
+- '2'
 abstract: "Divergent transcription from bidirectional promoters is frequently observed in eukaryotic genomes, but the biological relevance of divergent RNA transcripts (DT) is unknown. We identified and characterized BDNF-DT, a novel DT gene, and BDNF-AS-DT, a novel readthrough gene, in the locus containing BDNF, a gene with key roles in neuronal development, differentiation, and synaptic plasticity. BDNF-DT is independent from the known BDNF antisense (BDNF-AS), and its expression is developmentally regulated and positively correlated with BDNF in human postmortem dorsolateral prefrontal cortex (DLPFC). BDNF-DT and BDNF-AS-DT expression increase after induced depolarization, but the temporal dynamics follow expression of BDNF, suggesting a regulatory role. Moreover, CRISPR-mediated upregulation of BDNF in human neural progenitor cells drives BDNF-DT expression. Finally, BDNF-DT shows higher expression in DLPFC from patients diagnosed with schizophrenia compared to neurotypical controls, and genetically predicted lower expression of the BDNF-AS-DT readthrough transcript is associated with schizophrenia and with the schizophrenia-associated C allele of the rs6265 single-nucleotide polymorphism. These findings identify BDNF-DT and BDNF-AS-DT as novel, low-abundance genes that show coordinated expression with BDNF and association with schizophrenia risk, though their biological significance requires further validation given detection limitations and the need to establish causal roles."
 publication: '*Molecular Psychiatry*'
 doi: 10.1038/s41380-026-03695-0
