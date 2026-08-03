@@ -22,6 +22,7 @@ weight = 70
 ## 2026
 
 1. Instructor of the [Introduction to RNA-seq data analysis with Bioconductor](https://lcolladotor.github.io/rnaseq_LCG-UNAM_2026/) course for LCG-UNAM students.
+1. Instructor for [140.776 Statistical Computing](https://lcolladotor.github.io/jhustatcomputing/) course at the Johns Hopkins Bloomberg School of Public Health.
 
 ## 2025
 
