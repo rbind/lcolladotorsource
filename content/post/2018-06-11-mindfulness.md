@@ -26,7 +26,6 @@ In academia and science, but really anywhere, we can encounter many sources of s
 
 All these tweets are threads, so you’ll have to open them to see them: click on the blue bird on the right side of each tweet.
 
-{{% tweet user="BryonyDuPont" id="1005618536100683777" %}}
 {{% tweet user="daniela_oaks" id="1004798860835938305" %}}
 {{% tweet user="lcolladotor" id="1004478330257707008" %}}
 

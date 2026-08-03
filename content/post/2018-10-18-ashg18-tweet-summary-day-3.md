@@ -115,8 +115,6 @@ Then used single cell (10x Genomics) to measure expression.
 
 ### Other (morning)
 
-{{% tweet user="anavinuela" id="1052999291764203521" %}}
-
 {{% tweet user="StatGenDan" id="1053000619504500736" %}}
 
 ### Afternoon awards
@@ -135,8 +133,6 @@ Then used single cell (10x Genomics) to measure expression.
 
 {{% tweet user="michaelhoffman" id="1053074247956946944" %}}
 
-{{% tweet user="averydavisbell" id="1053075148725612544" %}}
-
 ### Presidential Symposium
 
 #### John Hawks
@@ -146,8 +142,6 @@ Then used single cell (10x Genomics) to measure expression.
 {{% tweet user="jlpcphotography" id="1053078045387444225" %}}
 
 {{% tweet user="liminalphase" id="1053081405016571904" %}}
-
-{{% tweet user="JHmeljak" id="1053083391711571969" %}}
 
 #### Himla Soodyall
 
@@ -194,8 +188,6 @@ This is hard. Some don’t mention the methods to avoid this issue, but then it 
 {{% tweet user="ErickLoomis" id="1053000667969683458" %}}
 
 {{% tweet user="dgmacarthur" id="1052996814356373504" %}}
-
-{{% tweet user="hendricks_ae" id="1053073453035642881" %}}
 
 {{% tweet user="johnomix" id="1053076114032205824" %}}
 

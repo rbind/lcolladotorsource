@@ -25,10 +25,6 @@ Had \#diversitymatters and many flags including the rainbow one in her last slid
 
 #### Benjamin Neale
 
-{{% tweet user="averydavisbell" id="1053356294369759233" %}}
-
-{{% tweet user="saralpulit" id="1053356661694324736" %}}
-
 {{% tweet user="lcolladotor" id="1053356800609705984" %}}
 
 {{% tweet user="ellenmschmidt" id="1053360343408246784" %}}
@@ -44,8 +40,6 @@ All results are available to download for free from his lab website!
 {{% tweet user="Misha_Vysotskiy" id="1053319220048486400" %}}
 
 {{% tweet user="artwuster" id="1053320618194522113" %}}
-
-{{% tweet user="dccc_phd" id="1053324083771789313" %}}
 
 {{% tweet user="iGenomics" id="1053358670925316096" %}}
 
@@ -65,17 +59,9 @@ All results are available to download for free from his lab website!
 
 {{% tweet user="michaelhoffman" id="1053429016739241984" %}}
 
-### Diversity
-
-{{% tweet user="averydavisbell" id="1053363947154243584" %}}
-
-{{% tweet user="averydavisbell" id="1053367064168022016" %}}
-
 ### Misc
 
 {{% tweet user="AleMedinaRivera" id="1053320504122036224" %}}
-
-{{% tweet user="JedMSP" id="1053353588146155520" %}}
 
 {{% tweet user="michaelhoffman" id="1053356648247418881" %}}
 

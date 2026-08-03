@@ -52,11 +52,6 @@ user_groups = ["Alumni"]
   icon = "envelope"
   icon_pack = "fas"
   link = "mailto:jstolz80@gmail.com"  # For a direct email link, use "mailto:test@example.org".
-  
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/JoshStolz2"
 
 [[social]]
   icon = "github"
@@ -78,5 +73,3 @@ user_groups = ["Alumni"]
 +++
 
 ![](http://ghchart.rshah.org/DA2536/joshstolz.svg)
-
-{{< tweet user="JoshStolz2" id="1552718389742710785" >}}

@@ -40,9 +40,6 @@ Continuing from my [ASHG18 day 1 post](http://lcolladotor.github.io/2018/10/16/a
 
 `r blogdown::shortcode("tweet", user="JulieNadel", id="1052618815274700802")`
 
-`r blogdown::shortcode("tweet", user="dccc_phd", id="1052622201533358080")`
- 
-
 ### 6E 10:30 am
 
 `r blogdown::shortcode("tweet", user="NanibaaGarrison", id="1052077112931172352")`
@@ -73,8 +70,6 @@ Continuing from my [ASHG18 day 1 post](http://lcolladotor.github.io/2018/10/16/a
 `r blogdown::shortcode("tweet", user="johnhawks", id="1052618572575453185")`
 
 `r blogdown::shortcode("tweet", user="lcolladotor", id="1052621619712090112")`
-
-`r blogdown::shortcode("tweet", user="paleogenomics", id="1052622727578865665")`
 
 `r blogdown::shortcode("tweet", user="popgenepi", id="1052621558194221056")`
  
@@ -110,22 +105,10 @@ Issue with open data. They want to control how the data is re-used. Like for imp
 
 #### Kelly East
 
-
-`r blogdown::shortcode("tweet", user="girlscientist", id="1052628766739054592")`
-
-`r blogdown::shortcode("tweet", user="averydavisbell", id="1052628958330552320")`
-
 `r blogdown::shortcode("tweet", user="lcolladotor", id="1052630261052002304")`
  (others made better tweets!)
 
-
-`r blogdown::shortcode("tweet", user="girlscientist", id="1052630028364599296")`
-
-`r blogdown::shortcode("tweet", user="averydavisbell", id="1052630250918567937")`
-
 `r blogdown::shortcode("tweet", user="sgpombe", id="1052631513332834304")`
-
-`r blogdown::shortcode("tweet", user="averydavisbell", id="1052631235770572800")`
 
 `r blogdown::shortcode("tweet", user="lcolladotor", id="1052631310290669568")`
 
@@ -140,15 +123,9 @@ I guess that it’s for US scientists, but I don't think of the "Deep South" in 
 
 #### Chris Gunter
 
-`r blogdown::shortcode("tweet", user="averydavisbell", id="1052636166804013056")`
-
 35,000 page views on DNA awareness day3. 23andMe did a survey study in March 2018
 
 `r blogdown::shortcode("tweet", user="MoleculeMind", id="1052636686025256960")`
-
-`r blogdown::shortcode("tweet", user="CincyKidsGenomX", id="1052638967663800320")`
-
-`r blogdown::shortcode("tweet", user="averydavisbell", id="1052639236086616065")`
 
 `r blogdown::shortcode("tweet", user="lcolladotor", id="1052640088360796161")`
 
@@ -157,8 +134,6 @@ I guess that it’s for US scientists, but I don't think of the "Deep South" in 
 `r blogdown::shortcode("tweet", user="yhtacgnol", id="1052641926833291264")`
 
 `r blogdown::shortcode("tweet", user="lcolladotor", id="1052643639267012613")`
-
-`r blogdown::shortcode("tweet", user="girlscientist", id="1052620297155829760")`
  
 
 ### Other (morning)
@@ -253,8 +228,6 @@ Controlling for a nearby pLI gene? I’ve seen pLI mentioned a few times. Gotta 
 `r blogdown::shortcode("tweet", user="genome_sheriff", id="1052727741668159488")`
 
 ### Diversity 
-
-`r blogdown::shortcode("tweet", user="averydavisbell", id="1052716627689500672")`
 
 `r blogdown::shortcode("tweet", user="NatalieTelis", id="1052717401429532672")`
 

@@ -77,8 +77,6 @@ Hierarchical model with normal + (missed it) + log + poisson
 
 {{% tweet user="michaelhoffman" id="1053697490124386304" %}}
 
-{{% tweet user="averydavisbell" id="1053709216878194688" %}}
-
 ### Diversity
 
 {{% tweet user="jsdron" id="1053674078966493184" %}}
@@ -102,8 +100,6 @@ Hierarchical model with normal + (missed it) + log + poisson
 {{% tweet user="aaronquinlan" id="1053698711216214016" %}}
 
 {{% tweet user="spendlove_sarah" id="1053699388881592320" %}}
-
-{{% tweet user="wouter_decoster" id="1053704802549428225" %}}
 
 {{% tweet user="apicoplast" id="1053707539844521984" %}}
 

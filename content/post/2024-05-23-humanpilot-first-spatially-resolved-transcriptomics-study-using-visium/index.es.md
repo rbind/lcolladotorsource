@@ -165,8 +165,6 @@ Naturalmente recibimos preguntas sobre que podría pasar si nuestro estudio pilo
 
 Algo que quiero resaltar es que mi colega Kristen R. Maynard y yo fuimos co-primer autores de `HumanPilot`, y ahora somos autores co-correspondientes de `spatialDLPFC`. `HumanPilot` empezó en 2019 y fue publicado en 2021, mientras que empezamos `spatialDLPFC` en 2020 y salió publicado en 2024. Estos proyectos tiene ciclos largos y toman un pueblo entero, o una federación de pueblos, para ser completados y publicados. Así que quiero agradecer a todos los colegas pasados. ¡No podríamos haber llegado a donde estamos sin su trabajo! Gracias a todas las personas que han estado interesadas en nuestro trabajo y que lo siguen usando para aprender nuevas cosas. Nosotros también aprendemos a través de ustedes. ¡¡¡Gracias!!!
 
-{{% tweet user="helucro" id="1597579271945715717" %}}
-
 Ojalá ahora tengan una mejor idea sobre nuestro estudio `HumanPilot` y ahora puedan reconocer el origen de imágenes como las de arriba. Si quieren aprender más, pueden ver la siguiente presentación más detallada que hicieron Cynthia Soto y Daianna Gonzalez-Padilla. Son parte de mi equipo, pero no estuvieron involucradas en este estudio. Así que su presentación es de una perspectiva más fresca.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qloLbG5-IPM?si=u5uXT3x4ShfF25mi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>

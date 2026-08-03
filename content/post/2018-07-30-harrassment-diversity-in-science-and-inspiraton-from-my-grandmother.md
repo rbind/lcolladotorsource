@@ -45,8 +45,6 @@ I did inherit her souvenirs from her trips (my dad also loves them) and somethin
 
 In my dream there was a moment where I was sitting next to her (me in my current adult form) and we were revising many of our shared moments. She was explaining to me things she couldn’t explain before because I wouldn’t have understood them. She also pumped me up before my day and wished me luck for my talk. I think that I delivered ^^
 
-{{% tweet user="semiramis_cj" id="1023953817187090435" %}}
-
 ### WomenInStem
 
 Today was a big day for [WomenInSTEM](https://twitter.com/search?q=womeninstem) and in particular in the field of Statistics. Why? Today the Joint Statistical Meetings ([JSM2018](https://twitter.com/search?q=jsm2018)) held a session on “Addressing Sexual Misconduct in Statistics” that was organized by [Stephanie Hicks](https://twitter.com/stephaniehicks) and chaired by [Keegan Korthauer](https://twitter.com/keegankorthauer).
@@ -71,8 +69,6 @@ I do think that slowly, maybe sometimes quickly, the times are changing. I’ve 
 
 But then I think immediately of next steps, like race and ethnicity as well as sexual diversity. I want to ask for more, but I sometimes hold myself back. I’m no expert on many of these topics, so maybe what seems like a good policy could easily backfire later. So I think about incremental steps. But maybe that’s too slow and not enough. Maybe careers are suffering but I guess that as a community we are going as safely and fast as we can.
 
-{{% tweet user="FertigLab" id="1024044326664527875" %}}
-
 I’m not supporting whoever Michael was referencing in his next tweet. I don’t flirt at conferences: I do socialize and try to make new friends with fellow conference attendees. I do acknowledge that I struggle in my head with what is ok and not ok to do, particularly with people you spend at lot of time with at school, work, etc. I’m not certain of the boundary between clumsy dating skills and sexual misconduct in some scenarios. I think that I’m not the only one because I’ve heard different versions in different sexual harassment prevention sessions. So mostly I end up doing nothing yet sometimes I wonder if I lost out because I didn’t try a bit more with X person. For instance, Mercedes maried her classmate Rolando. What can I say, I’m still learning and we all probably need to learn to differentiate these boundaries better through more training.
 
 {{% tweet user="michaelhoffman" id="1024066415752433664" %}}
@@ -86,8 +82,6 @@ To close my post, I encourage you to check their request for feedback!
 {{% tweet user="KLdivergence" id="1023977618104889346" %}}
 
 And if you are an R non-cis male person, you should totally join the R-Ladies community slack!
-
-{{% tweet user="RLadiesGlobal" id="1022031250759053314" %}}
 
 ### Acknowledgments
 

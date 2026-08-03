@@ -17,8 +17,6 @@ Continuing from my [ASHG18 day 1 post](http://lcolladotor.github.io/2018/10/16/a
 
 {{% tweet user="JulieNadel" id="1052618815274700802" %}}
 
-{{% tweet user="dccc_phd" id="1052622201533358080" %}}
-
 ### 6E 10:30 am
 
 {{% tweet user="NanibaaGarrison" id="1052077112931172352" %}}
@@ -46,8 +44,6 @@ Continuing from my [ASHG18 day 1 post](http://lcolladotor.github.io/2018/10/16/a
 {{% tweet user="johnhawks" id="1052618572575453185" %}}
 
 {{% tweet user="lcolladotor" id="1052621619712090112" %}}
-
-{{% tweet user="paleogenomics" id="1052622727578865665" %}}
 
 {{% tweet user="popgenepi" id="1052621558194221056" %}}
 
@@ -79,20 +75,10 @@ Issue with open data. They want to control how the data is re-used. Like for imp
 
 #### Kelly East
 
-{{% tweet user="girlscientist" id="1052628766739054592" %}}
-
-{{% tweet user="averydavisbell" id="1052628958330552320" %}}
-
 {{% tweet user="lcolladotor" id="1052630261052002304" %}}
 (others made better tweets!)
 
-{{% tweet user="girlscientist" id="1052630028364599296" %}}
-
-{{% tweet user="averydavisbell" id="1052630250918567937" %}}
-
 {{% tweet user="sgpombe" id="1052631513332834304" %}}
-
-{{% tweet user="averydavisbell" id="1052631235770572800" %}}
 
 {{% tweet user="lcolladotor" id="1052631310290669568" %}}
 
@@ -106,15 +92,9 @@ I guess that it’s for US scientists, but I don’t think of the “Deep South�
 
 #### Chris Gunter
 
-{{% tweet user="averydavisbell" id="1052636166804013056" %}}
-
 35,000 page views on DNA awareness day3. 23andMe did a survey study in March 2018
 
 {{% tweet user="MoleculeMind" id="1052636686025256960" %}}
-
-{{% tweet user="CincyKidsGenomX" id="1052638967663800320" %}}
-
-{{% tweet user="averydavisbell" id="1052639236086616065" %}}
 
 {{% tweet user="lcolladotor" id="1052640088360796161" %}}
 
@@ -123,8 +103,6 @@ I guess that it’s for US scientists, but I don’t think of the “Deep South�
 {{% tweet user="yhtacgnol" id="1052641926833291264" %}}
 
 {{% tweet user="lcolladotor" id="1052643639267012613" %}}
-
-{{% tweet user="girlscientist" id="1052620297155829760" %}}
 
 ### Other (morning)
 
@@ -212,8 +190,6 @@ plus they have a 50% off discount
 {{% tweet user="genome_sheriff" id="1052727741668159488" %}}
 
 ### Diversity
-
-{{% tweet user="averydavisbell" id="1052716627689500672" %}}
 
 {{% tweet user="NatalieTelis" id="1052717401429532672" %}}
 

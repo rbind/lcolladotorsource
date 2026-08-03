@@ -129,8 +129,6 @@ To close off, here are some inspiring or thought provoking tweets:
 
 {{% tweet user="mgschiavon" id="1056571008662949888" %}}
 
-{{% tweet user="WeAreRLadies" id="1055124381876260865" %}}
-
 {{% tweet user="daniela_oaks" id="1019597807395770368" %}}
 
 {{% tweet user="lcolladotor" id="1001985730904764417" %}}
@@ -286,10 +284,6 @@ dev.off()
 ### Reactions to the blog post
 
 {{% tweet user="lbolanos68" id="1060038817774657536" %}}
-
-{{% tweet user="mreyespri" id="1060116424415436800" %}}
-
-{{% tweet user="paleogenomics" id="1060355174546505729" %}}
 
 [^1]: Mine was the very last one of the conference.
 

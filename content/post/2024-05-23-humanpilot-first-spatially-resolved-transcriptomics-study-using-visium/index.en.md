@@ -166,8 +166,6 @@ Naturally we heard questions about what could happen if we had a larger pilot st
 
 Something I want to highlight is that my colleague Kristen R. Maynard and I were co-first authors of `HumanPilot`, and are now co-corresponding authors of `spatialDLPFC`. `HumanPilot` started in 2019 and was published in 2021, `spatialDLPFC` started in 2020 and was published in 2024. These projects have large cycles and it takes a whole village, or a federation of villages, to get them completed and published. So I want to shout out all past colleagues. We couldn’t have gotten to where we are without their work! And thank you for everyone who has been interested in our work and has been using it to learn new things. We also learn through you. Thank you!!!
 
-{{% tweet user="helucro" id="1597579271945715717" %}}
-
 Hopefully you have a better understanding of our `HumanPilot` study now and can recognize the origin of all the figures like the ones above. If you want more, check out this journal club presentation by Cynthia Soto and Daianna Gonzalez-Padilla. They are members of my lab, but were not involved in this study at all. So their presentation has a fresh perspective.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qloLbG5-IPM?si=u5uXT3x4ShfF25mi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
