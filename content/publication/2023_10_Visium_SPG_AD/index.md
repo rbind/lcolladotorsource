@@ -21,7 +21,7 @@ authors:
 - "Keri Martinowich &dagger;"
 - "Kristen R. Maynard &dagger;"
 - "Leonardo Collado-Torres &dagger;"
-tags: ["spatial", "VistoSeg", "Visium_SPG_AD"]
+tags: ["spatial", "VistoSeg", "Visium_SPG_AD", "AD"]
 categories: []
 date: '2023-10-16'
 lastmod: ''
