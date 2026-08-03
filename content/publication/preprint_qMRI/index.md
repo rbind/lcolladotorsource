@@ -6,29 +6,29 @@ subtitle: ''
 summary: ''
 authors:
 - Melissa Grant-Peters
-- George E C Thomas
+- George E. C. Thomas
 - Daan van Kruining
 - lahuuki
 - Ruth Zhang
-- Jonathan W Brenton
+- Jonathan W. Brenton
 - Hemanth Nelvagal
 - Angelika Zarkali
-- James R Evans
-- Christina E Toomey
+- James R. Evans
+- Christina E. Toomey
 - Aine Fairbrother-Browne
 - Ivelina Dobreva
-- Kelsey D Montgomery
+- Kelsey D. Montgomery
 - Joanne Lachica
 - Naomi Hannaway
 - Nicholas Wood
 - Sonia Gandhi
-- Martina F Callaghan
+- Martina F. Callaghan
 - Frances Platt
 - Zane Jaunmuktane
 - Karin Shmueli
 - admin
-- Kristen R Maynard
-- Rimona S Weil
+- Kristen R. Maynard
+- Rimona S. Weil
 - Mina Ryten
 tags: [""]
 categories: []
